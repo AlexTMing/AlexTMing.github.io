@@ -1,1 +1,8 @@
 /__site-generator版本-使用jekyll请删除/app
+
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+.idea/
